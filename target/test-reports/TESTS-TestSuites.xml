@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="MO03529" id="0" name="EmployeeControllerSpec" package="testApp" tests="4" time="0.297" timestamp="2014-05-23T15:38:24">
+      <properties />
+
+      <testcase classname="testApp.EmployeeControllerSpec" name="updateEmployeeNaiveWay() should update salary" time="0.228" />
+
+      <testcase classname="testApp.EmployeeControllerSpec" name="updateEmployeeWhiteList() should not update salary" time="0.023" />
+
+      <testcase classname="testApp.EmployeeControllerSpec" name="updateEmployeeBindDataInclude() should not update salary" time="0.01" />
+
+      <testcase classname="testApp.EmployeeControllerSpec" name="updateEmployeeBindDataExclude() should not update salary" time="0.016" />
+
+      <system-out><![CDATA[]]></system-out>
+
+      <system-err><![CDATA[]]></system-err>
+
+  </testsuite>
+</testsuites>
